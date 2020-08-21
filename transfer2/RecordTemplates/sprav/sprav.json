@@ -1,0 +1,13 @@
+{
+  "$type": "Comindware.Platform.Contracts.TemplateInfoModel, Comindware.Platform.Contracts",
+  "Name": "справ",
+  "GlobalAlias": {
+    "$type": "Comindware.Platform.Contracts.GlobalAlias, Comindware.Platform.Contracts",
+    "Type": "RecordTemplate",
+    "Alias": "sprav"
+  },
+  "IsDisabled": false,
+  "IsReferenceData": true,
+  "IsTransferable": true,
+  "KeyProperty": "chislo"
+}

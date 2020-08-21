@@ -1,0 +1,20 @@
+{
+  "$type": "System.Collections.Generic.Dictionary`2[[Comindware.Platform.Contracts.GlobalAlias, Comindware.Platform.Contracts],[Comindware.Platform.Contracts.BehaviourStateType, Comindware.Platform.Contracts]], mscorlib",
+  "SchemeActivity@diagram.116.noneStartEvent1": "Active",
+  "SchemeActivity@diagram.116.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.115.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.115.noneStartEvent1": "Active",
+  "SchemeActivity@diagram.114.timerIntermediateEvent1": "Active",
+  "SchemeActivity@diagram.114.noneStartEvent1": "Active",
+  "SchemeActivity@diagram.114.noneEndEvent2": "Active",
+  "SchemeActivity@diagram.114.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.114.exclusiveGate1": "Active",
+  "SchemeActivity@diagram.113.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.113.noneStartEvent1": "Active",
+  "SchemeActivity@diagram.112.userTask1": "Active",
+  "SchemeActivity@diagram.112.noneStartEvent1": "Active",
+  "SchemeActivity@diagram.112.noneIntermediateEvent1": "Active",
+  "SchemeActivity@diagram.112.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.111.noneEndEvent1": "Active",
+  "SchemeActivity@diagram.111.noneStartEvent1": "Active"
+}

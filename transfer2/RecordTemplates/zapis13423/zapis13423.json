@@ -1,0 +1,13 @@
+{
+  "$type": "Comindware.Platform.Contracts.TemplateInfoModel, Comindware.Platform.Contracts",
+  "Name": "запись13423",
+  "GlobalAlias": {
+    "$type": "Comindware.Platform.Contracts.GlobalAlias, Comindware.Platform.Contracts",
+    "Type": "RecordTemplate",
+    "Alias": "zapis13423"
+  },
+  "IsDisabled": false,
+  "IsReferenceData": true,
+  "IsTransferable": true,
+  "KeyProperty": "chislo"
+}
