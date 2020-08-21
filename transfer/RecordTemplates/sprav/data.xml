@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Records Alias="sprav">
+  <Records>
+    <Record>
+      <Keys>
+        <Key Alias="chislo" Type="Decimal">
+          <Key xmlns:q1="http://www.w3.org/2001/XMLSchema" d6p1:type="q1:decimal" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">135</Key>
+        </Key>
+      </Keys>
+      <Properties>
+        <Value Alias="tekst" Type="String">
+          <SimpleValue xmlns:q2="http://www.w3.org/2001/XMLSchema" d6p1:type="q2:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">йцу</SimpleValue>
+        </Value>
+      </Properties>
+    </Record>
+    <Record>
+      <Keys>
+        <Key Alias="chislo" Type="Decimal">
+          <Key xmlns:q3="http://www.w3.org/2001/XMLSchema" d6p1:type="q3:decimal" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">543</Key>
+        </Key>
+      </Keys>
+      <Properties>
+        <Value Alias="tekst" Type="String">
+          <SimpleValue xmlns:q4="http://www.w3.org/2001/XMLSchema" d6p1:type="q4:string" xmlns:d6p1="http://www.w3.org/2001/XMLSchema-instance">555</SimpleValue>
+        </Value>
+      </Properties>
+    </Record>
+  </Records>
+</Records>
